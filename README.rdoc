@@ -1,0 +1,3 @@
+== Zunyi
+
+Proyecto para administrar el Simposio que organiza el GUSLMix. Hecho en RoR, pretente desarrollarse con BDD, TDD y varias técnicas y herramientas de actualidad.
